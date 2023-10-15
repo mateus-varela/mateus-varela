@@ -11,9 +11,9 @@ I'm Mateus, a passionate DevOps Engineer from Brazil, on a never-ending journey 
 - 📚 **Exploring the dynamic world of programming, DevOps, GitOps, and DevSecOps**
 - 🎓 **Preparing for K8s certifications**
 
-**What I'm looking for**
+**What I'm looking to achieve**
 
-- 💡 **Opportunities to expand my horizons and grow**
+- 💡 **Eager to embrace new challenges and learning experiences**
 - 🤝 **Ways to give back to the community and inspire others**
 
 **How to reach me**
