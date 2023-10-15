@@ -53,7 +53,7 @@ I find peace in nature, whether I'm hiking, camping, or simply exploring the gre
 - **GitHub Actions** 🚀
 - **Jira** 🐉
 
-**Observability and Monitoring**
+**Observability and Monitoring** 👁️
 
 - **Prometheus**
 - **Grafana**
